@@ -53,14 +53,14 @@ a{
     top:0;
     letter-spacing: 6px; 
     word-spacing: 5px;
-    margin-bottom: 1px; /* Example margin-bottom to create space */
+    margin-bottom: 1px;
     margin-top:-28px;
 }
 .top-section-message{
     font-size: 20px;
     font-style: italic;
     margin-top:-120px;
-    margin-bottom: 30px; /* Adjust margin-bottom to reduce space */
+    margin-bottom: 30px;
 }
 .click-me-button{
     width: 40%;
